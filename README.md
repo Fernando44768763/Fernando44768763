@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Fernando
-- 👀 I’m interested in cybersecurity
-- 📫 How to reach me fernando44768763@gmai.com
-- 😄 Pronouns: he/him
+As a kid, my fascination with math and science naturally steered me toward engineering, a field where I could satisfy my curiosity and desire to understand how things work. This curiosity blossomed into a passion for Computer Science when I discovered the joys of programming. The allure of programming, for me, lies in its ability to create tangible changes with intangible code, crafting applications and websites that simplify tasks, enhance productivity, and bring enjoyment to users. My pivot to cybersecurity was significantly influenced by the TV show "Mr. Robot," which shed light on the dark aspects of the digital world. This show, coupled with the alarming increase in digital threats like data breaches, ransomware attacks, and cyber espionage, ignited my determination to protect digital integrity and privacy.
 
-<!---
-Fernando44768763/Fernando44768763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently enrolled at the University of Illinois at Chicago, where I am enhancing my skills in C, C++, and Python.
